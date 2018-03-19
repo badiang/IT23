@@ -1,4 +1,4 @@
-Hello users! This is my first project Game Application in titled "Puzzle game" I hope you like it and enjoy the game.
+Hello users! This is my first project Game Application in titled "Puzzle game". I hope you like it and enjoy the game.
 Allow me to introduce my puzzle game.
 This game is not like a normal puzzle game. It really needs focus and concentration to successfully complete the game.
 You need to find the same letter to complete the puzzle,
